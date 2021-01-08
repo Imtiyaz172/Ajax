@@ -27,7 +27,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'imagekit',
     'ckeditor',
-    'mealapp'
+    'mealapp',
+    'import_export',
+    'admin_interface',
+    'colorfield',
+
 ]
 
 MIDDLEWARE = [
